@@ -1,4 +1,4 @@
-# Zull Api Gateway
+# Zuul Api Gateway
 
 Desafio Itaú para criar um serviço com implementação do API Gateway conhecido como Zuul.
 
