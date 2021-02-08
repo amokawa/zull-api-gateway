@@ -1,6 +1,6 @@
 # Zull Api Gateway
 
-Projeto de implementação do API Gateway conhecido como Zuul.
+Desafio Itaú para criar um serviço com implementação do API Gateway conhecido como Zuul.
 
 ## Requisitos
 
